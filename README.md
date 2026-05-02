@@ -1,6 +1,12 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5A189A&width=520&lines=%3Cp%3E+%E2%9D%A4+Ol%C3%A1+Mundo%2C+eu+sou+a+Yasmim+%E2%80%A2%E1%B4%97%E2%80%A2++%E2%9D%A4+%3C%2Fp%3E" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Chakra+Petch&duration=4000&pause=1000&color=8A5CFF&background=8A5CFF00&repeat=false&width=146&lines=%E2%9D%A4+%E0%B8%AA%E0%B8%A7%E0%B8%B1%E0%B8%AA%E0%B8%94%E0%B8%B5%E0%B8%8A%E0%B8%B2%E0%B8%A7%E0%B9%82%E0%B8%A5%E0%B8%81+%E2%9D%A4" alt="Typing SVG"
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Chakra+Petch&duration=6000&pause=1000&color=8A5CFF&background=8A5CFF00&width=420&lines=%3Cp%3E+%E2%9D%A4+Ol%C3%A1+Mundo%2C+eu+sou+a+Yasmim+%E2%80%A2%E1%B4%97%E2%80%A2+%E2%9D%A4+%3C%2Fp%3E" alt="Typing SVG">
   </a>
 </div>
 
@@ -20,4 +26,12 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,scss,java,cpp,autocad" />
   </a>
+</p>
+
+#
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YasmimY4s&theme=midnight_purple" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=YasmimY4s&theme=midnight_purple" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YasmimY4s&theme=midnight_purple&utcOffset=8" />
 </p>
