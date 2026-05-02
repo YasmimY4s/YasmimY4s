@@ -16,13 +16,9 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-
-          # 💜 cor da cobrinha (sua identidade visual)
-          snake_color: "#3b1f5c"
-
           outputs: |
             dist/github-snake.svg
-            dist/github-snake-dark.svg
+            dist/github-snake-dark.svg?palette=purple
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
