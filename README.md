@@ -16,4 +16,8 @@
 
 <h3 align="center">❤ Tecnologias e Ferramentas ❤</h3>
 
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,scss,java,cpp,autocad" />
+  </a>
+</p>
