@@ -16,7 +16,10 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          palette: purple
+
+          # 💜 cor da cobrinha (sua identidade visual)
+          snake_color: "#3b1f5c"
+
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg
