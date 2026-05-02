@@ -29,7 +29,3 @@
 </p>
 
 #
-
-<p align="center">
-  <img src="https://github.com/YasmimY4s/YasmimY4s/blob/output/github-snake-dark.svg" />
-</p>
