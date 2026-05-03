@@ -35,3 +35,11 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=YasmimY4s&theme=midnight_purple" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YasmimY4s&theme=midnight_purple&utcOffset=8" />
 </p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YasmimY4s&theme=midnight_purple" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/YasmimY4s/YasmimY4s/blob/output/github-snake-dark.svg" />
+</p>
